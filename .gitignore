@@ -1,0 +1,8 @@
+chain
+shatest
+cbtest
+embed
+CBCHAIN.so
+*.o
+*.dat
+*.so
